@@ -1,4 +1,4 @@
-package com.example.agendadortarefas;
+package com.javanauta.agendadortarefas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
